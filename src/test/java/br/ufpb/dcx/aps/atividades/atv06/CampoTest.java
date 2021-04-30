@@ -62,6 +62,7 @@ class CampoTest {
 
     @Test
     void testResultadoCampo() {
+
         Resultado r = campo.validar();
     }
 }
